@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - lib/main.dart
+
+linter:
+  rules:
+     camel_case_types: true
+     prefer_const_constructors: false
+     avoid_print: false
+     prefer_single_quotes: true

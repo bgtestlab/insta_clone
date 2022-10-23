@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40030741037",
+    "project_id": "insta-clone-e4a23",
+    "storage_bucket": "insta-clone-e4a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40030741037:android:35b5f88b6ba15daa17cea4",
+        "android_client_info": {
+          "package_name": "com.codeflow.insta_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40030741037-foq12h7crkpkshsf7svgi0e935bpadr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeflow.insta_clone",
+            "certificate_hash": "1331a68a0e4230694fe5c5be168bf18d0752b440"
+          }
+        },
+        {
+          "client_id": "40030741037-7ile1mpedddgr8ltfrakos5oh7gj91g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnYuSJhX-p5ex-hu0hRzrg1qD_8oxXK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40030741037-7ile1mpedddgr8ltfrakos5oh7gj91g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
